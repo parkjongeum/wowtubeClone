@@ -1,0 +1,11 @@
+{
+  "name": "wowtube-clone",
+  "version": "1.0.0",
+  "description": "wowatube-clone",
+  "main": "index.js",
+  "author": "parkjin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
